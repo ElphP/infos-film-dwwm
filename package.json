@@ -1,4 +1,5 @@
-{   "homepage": "https://elphp.github.io/infos-film-dwwm/",
+{
+    "homepage": "https://elphp.github.io/AFPA_Film-infos",
     "name": "infos-film-dwwm",
     "version": "0.1.0",
     "private": true,
