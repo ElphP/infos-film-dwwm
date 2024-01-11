@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/infos-film-dwwm/static/css/main.cb42da57.css",
+    "main.js": "/infos-film-dwwm/static/js/main.051a4769.js",
+    "static/js/787.c2c7f028.chunk.js": "/infos-film-dwwm/static/js/787.c2c7f028.chunk.js",
+    "index.html": "/infos-film-dwwm/index.html",
+    "main.cb42da57.css.map": "/infos-film-dwwm/static/css/main.cb42da57.css.map",
+    "main.051a4769.js.map": "/infos-film-dwwm/static/js/main.051a4769.js.map",
+    "787.c2c7f028.chunk.js.map": "/infos-film-dwwm/static/js/787.c2c7f028.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb42da57.css",
+    "static/js/main.051a4769.js"
+  ]
+}
