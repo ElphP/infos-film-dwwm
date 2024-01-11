@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/AFPA_Film-infos/static/css/main.cb42da57.css",
-    "main.js": "/AFPA_Film-infos/static/js/main.59f6e4d7.js",
+    "main.js": "/AFPA_Film-infos/static/js/main.dfd6e41a.js",
     "static/js/787.c2c7f028.chunk.js": "/AFPA_Film-infos/static/js/787.c2c7f028.chunk.js",
     "index.html": "/AFPA_Film-infos/index.html",
     "main.cb42da57.css.map": "/AFPA_Film-infos/static/css/main.cb42da57.css.map",
-    "main.59f6e4d7.js.map": "/AFPA_Film-infos/static/js/main.59f6e4d7.js.map",
+    "main.dfd6e41a.js.map": "/AFPA_Film-infos/static/js/main.dfd6e41a.js.map",
     "787.c2c7f028.chunk.js.map": "/AFPA_Film-infos/static/js/787.c2c7f028.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cb42da57.css",
-    "static/js/main.59f6e4d7.js"
+    "static/js/main.dfd6e41a.js"
   ]
 }
